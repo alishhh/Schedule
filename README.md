@@ -1,3 +1,3 @@
 # Schedule
 This project was written in python + django
-(C:/Users/alish/Pictures/projects/BkLuQdEXuWA.jpg)
+![alt text](screenshots/BkLuQdEXuWA.jpg)
